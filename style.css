@@ -1,0 +1,17 @@
+.container-top {
+  border: 3px solid lightgray;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  height: 15vh;
+}
+
+.box {
+  flex-basis: 10rem;
+  width: 5rem;
+  height: 5rem;
+  background: rgb(27, 102, 242);
+  margin: 1rem;
+}
+
+
