@@ -1,8 +1,15 @@
-.container-top {
-  border: 3px solid lightgray;
+body {
+  background-color: #1b2d39;
+  border: 1px solid lightgray;
+  height: 90vh;
+
+  }
+
+
+.container {
   display: flex;
   justify-content: center;
-  align-items: flex-end;
+  align-items: flex-start;
   height: 15vh;
 }
 
@@ -14,4 +21,7 @@
   margin: 1rem;
 }
 
-
+.video-box {
+  width: 500px;
+  height: 281px;
+}
